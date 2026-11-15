@@ -12,6 +12,9 @@ jobs:
   run:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: worldradar
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
