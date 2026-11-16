@@ -1,0 +1,99 @@
+2026-11-16 00:04:19,701 INFO === WORLD RADAR 2026-11-16 開始 ===
+2026-11-16 00:04:22,408 WARNING fetch 失敗 (1/3) https://www3.nhk.or.jp/nhkworld/en/news/feeds/: HTTP Error 404: Not Found
+2026-11-16 00:04:23,466 WARNING fetch 失敗 (2/3) https://www3.nhk.or.jp/nhkworld/en/news/feeds/: HTTP Error 404: Not Found
+2026-11-16 00:04:25,506 WARNING fetch 失敗 (3/3) https://www3.nhk.or.jp/nhkworld/en/news/feeds/: HTTP Error 404: Not Found
+2026-11-16 00:04:25,506 ERROR 來源失敗 NHK WORLD: HTTP Error 404: Not Found
+2026-11-16 00:04:38,211 WARNING fetch 失敗 (1/3) https://api.gdeltproject.org/api/v2/doc/doc?query=(war%20OR%20election%20OR%20economy%20OR: HTTP Error 429: Too Many Requests
+2026-11-16 00:04:51,615 WARNING fetch 失敗 (2/3) https://api.gdeltproject.org/api/v2/doc/doc?query=(war%20OR%20election%20OR%20economy%20OR: HTTP Error 429: Too Many Requests
+2026-11-16 00:05:12,887 INFO 蒐集完成：626 篇，來源成功 13/14
+2026-11-16 00:05:13,012 INFO 事件 390 件，選出 10 則
+2026-11-16 00:05:23,861 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:25,011 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:27,171 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:27,172 ERROR AI 分析失敗 (1) Estonia to close Russian border crossings after attempted ar: HTTP Error 404: Not Found
+2026-11-16 00:05:31,355 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:32,494 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:34,644 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:34,644 ERROR AI 分析失敗 (2) Estonia to close Russian border crossings after attempted ar: HTTP Error 404: Not Found
+2026-11-16 00:05:42,797 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:43,947 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:46,095 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:46,095 ERROR AI 分析失敗 (1) Iran targets US military base in Bahrain with drone attack: HTTP Error 404: Not Found
+2026-11-16 00:05:50,223 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:51,388 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:53,555 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:05:53,555 ERROR AI 分析失敗 (2) Iran targets US military base in Bahrain with drone attack: HTTP Error 404: Not Found
+2026-11-16 00:06:01,694 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:02,852 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:05,027 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:05,027 ERROR AI 分析失敗 (1) Nearly 2,200 migrants reach Canary Islands in 2 days, Spain : HTTP Error 404: Not Found
+2026-11-16 00:06:09,184 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:10,387 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:12,557 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:12,557 ERROR AI 分析失敗 (2) Nearly 2,200 migrants reach Canary Islands in 2 days, Spain : HTTP Error 404: Not Found
+2026-11-16 00:06:20,714 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:21,833 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:23,971 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:23,971 ERROR AI 分析失敗 (1) Jensen Huang discusses comeback as Nvidia CEO with allies, F: HTTP Error 404: Not Found
+2026-11-16 00:06:28,127 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:29,285 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:31,466 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:31,467 ERROR AI 分析失敗 (2) Jensen Huang discusses comeback as Nvidia CEO with allies, F: HTTP Error 404: Not Found
+2026-11-16 00:06:39,614 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:40,746 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:42,916 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:42,916 ERROR AI 分析失敗 (1) Reactions outside court after Jordan sentences 3 men to deat: HTTP Error 404: Not Found
+2026-11-16 00:06:47,061 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:48,206 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:50,351 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:50,352 ERROR AI 分析失敗 (2) Reactions outside court after Jordan sentences 3 men to deat: HTTP Error 404: Not Found
+2026-11-16 00:06:58,497 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:06:59,652 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:01,831 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:01,831 ERROR AI 分析失敗 (1) Top scorer on South Korean tax exam confesses to cheating wi: HTTP Error 404: Not Found
+2026-11-16 00:07:05,987 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:07,120 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:09,279 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:09,279 ERROR AI 分析失敗 (2) Top scorer on South Korean tax exam confesses to cheating wi: HTTP Error 404: Not Found
+2026-11-16 00:07:17,417 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:18,554 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:20,724 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:20,724 ERROR AI 分析失敗 (1) Awkward moment awaits PM with potential Putin photo: HTTP Error 404: Not Found
+2026-11-16 00:07:24,869 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:26,002 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:28,162 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:28,162 ERROR AI 分析失敗 (2) Awkward moment awaits PM with potential Putin photo: HTTP Error 404: Not Found
+2026-11-16 00:07:36,314 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:37,463 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:39,596 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:39,596 ERROR AI 分析失敗 (1) Could everything be broken? Grounded jets, Microsoft outage,: HTTP Error 404: Not Found
+2026-11-16 00:07:43,753 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:44,876 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:47,010 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:47,010 ERROR AI 分析失敗 (2) Could everything be broken? Grounded jets, Microsoft outage,: HTTP Error 404: Not Found
+2026-11-16 00:07:55,147 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:56,281 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:58,419 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:07:58,419 ERROR AI 分析失敗 (1) Israel kills senior member of Hamas's military wing in Gaza : HTTP Error 404: Not Found
+2026-11-16 00:08:02,568 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:03,712 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:05,875 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:05,876 ERROR AI 分析失敗 (2) Israel kills senior member of Hamas's military wing in Gaza : HTTP Error 404: Not Found
+2026-11-16 00:08:14,053 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:15,195 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:17,340 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:17,340 ERROR AI 分析失敗 (1) Saudi-led coalition intercepts missiles towards Riyadh, dron: HTTP Error 404: Not Found
+2026-11-16 00:08:21,491 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:22,631 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:24,806 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:24,806 ERROR AI 分析失敗 (2) Saudi-led coalition intercepts missiles towards Riyadh, dron: HTTP Error 404: Not Found
+2026-11-16 00:08:32,941 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:34,097 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:36,252 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:36,252 ERROR AI 摘要失敗 (1): HTTP Error 404: Not Found
+2026-11-16 00:08:40,401 WARNING fetch 失敗 (1/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:41,536 WARNING fetch 失敗 (2/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:43,693 WARNING fetch 失敗 (3/3) https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: HTTP Error 404: Not Found
+2026-11-16 00:08:43,693 ERROR AI 摘要失敗 (2): HTTP Error 404: Not Found
+2026-11-16 00:08:51,382 INFO Telegram 已傳送 3 則
+2026-11-16 00:08:51,383 INFO === 完成，狀態：ok ===
