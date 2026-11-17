@@ -14,7 +14,7 @@ function nav(p){$("#nav").innerHTML=PAGES.map(([k,n])=>`<a href="#${k}" ${k===p?
 function card(s){
   const a=s.ai||{};
   return `<button class="card" data-id="${esc(s.id)}"><div class="meta"><span class="rank">#${s.rank}</span><span class="score ${s.score>=8?"hi":""}">${s.score}/10</span><span class="tag">${esc(s.country)}</span><span class="tag">${esc(s.category)}</span></div>
-  <h3>${esc(s.title_zh||s.title)}</h3><p>${esc(a.short||(s.summary_en?"（原文，未翻譯）"+s.summary_en.slice(0,120):""))}</p>
+  <h3>${esc(s.title_zh||s.title)}</h3><p>${esc(a.short||s.gist||(s.summary_en?"（原文，未翻譯）"+s.summary_en.slice(0,120):""))}</p>
   <div class="meta" style="margin-top:8px"><span class="${s.source_count>=2?"good":"warn"}">${esc(s.verification)}</span></div></button>`;
 }
 function bindCards(root,list){root.querySelectorAll(".card[data-id]").forEach(b=>b.onclick=()=>openStory(list.find(s=>s.id===b.dataset.id)));}
@@ -25,7 +25,7 @@ function openStory(s){
   $("#dlgBody").innerHTML=`<button class="x" onclick="document.getElementById('dlg').close()">關閉</button>
   <div class="meta"><span class="score">${s.score}/10</span><span class="tag">${esc(s.country)}</span><span class="tag">${esc(s.region)}</span><span class="tag">${esc(s.category)}</span></div>
   <h2 style="margin-top:10px;color:var(--text)">${esc(s.title_zh||s.title)}</h2><div class="meta">${esc(s.title)}</div>
-  ${a.what?"":`<div class="empty" style="margin-top:12px">這則新聞尚未經過 AI 分析（未設定 AI_API_KEY 或 AI 呼叫失敗）。以下為來源原文。<p>${esc(s.summary_en)}</p></div>`}
+  ${a.what?"":`<div class="empty" style="margin-top:12px">這則新聞尚未經過 AI 分析。${(D.ai_errors||[]).length?"原因："+esc(D.ai_errors[0]):"（可能未設定 AI_API_KEY）"}以下為來源原文。<p>${esc(s.summary_en)}</p></div>`}
   ${sec("重要性評分說明",a.score_reason)}${sec("發生了什麼事？",a.what)}${sec("事件背景",a.background)}${sec("為什麼重要？",a.why)}${sec("國際影響",a.international)}${sec("對台灣的影響",a.taiwan)}
   ${(a.watch||[]).length?`<div class="sec"><b>接下來觀察什麼？</b>${a.watch.map(w=>"・"+esc(w)).join("<br>")}</div>`:""}
   ${cert?`<div class="sec"><b>資訊等級</b>${cert}</div>`:""}
@@ -34,7 +34,7 @@ function openStory(s){
   $("#dlg").showModal();
 }
 const empty=()=>`<div class="empty"><b>目前還沒有任何資料。</b><br>這個網站只顯示真實抓取的新聞。請先執行一次每日流程：在電腦終端機執行 <code>python -m worldradar.run</code>，或到 GitHub 的 Actions 頁面按「Run workflow」。</div>`;
-const list=(arr)=>`<div class="list">${arr.map(x=>`<a href="${safeUrl(x.url)}" target="_blank" rel="noopener noreferrer"><span class="meta"><span class="score">${x.score}</span><span class="tag">${esc(x.country)}</span><span class="tag">${esc(x.category)}</span><span>${esc(x.source)}</span></span><br>${esc(x.title)}</a>`).join("")}</div>`;
+const list=(arr)=>`<div class="list">${arr.map(x=>`<a href="${safeUrl(x.url)}" target="_blank" rel="noopener noreferrer"><span class="meta"><span class="score">${x.score}</span><span class="tag">${esc(x.country)}</span><span class="tag">${esc(x.category)}</span><span>${esc(x.source)}</span></span><br>${esc(x.title_zh||x.title)}${x.gist?`<br><span class="mut">${esc(x.gist)}</span>`:""}</a>`).join("")}</div>`;
 
 
 const COORDS={"美國":[38.9,-77],"加拿大":[45.4,-75.7],"墨西哥":[19.4,-99.1],"巴西":[-15.8,-47.9],"阿根廷":[-34.6,-58.4],"委內瑞拉":[10.5,-66.9],"哥倫比亞":[4.7,-74.1],"智利":[-33.4,-70.7],"英國":[51.5,-0.1],"法國":[48.9,2.35],"德國":[52.5,13.4],"義大利":[41.9,12.5],"西班牙":[40.4,-3.7],"波蘭":[52.2,21],"歐盟":[50.85,4.35],"俄羅斯":[55.75,37.6],"烏克蘭":[50.45,30.5],"台灣":[25,121.5],"中國":[39.9,116.4],"日本":[35.7,139.7],"北韓":[39,125.75],"南韓":[37.55,127],"印尼":[-6.2,106.8],"菲律賓":[14.6,121],"越南":[21,105.85],"泰國":[13.75,100.5],"緬甸":[19.75,96.1],"新加坡":[1.35,103.8],"馬來西亞":[3.1,101.7],"印度":[28.6,77.2],"巴基斯坦":[33.7,73.05],"阿富汗":[34.5,69.2],"孟加拉":[23.8,90.4],"以色列／加薩":[31.8,35.2],"伊朗":[35.7,51.4],"沙烏地阿拉伯":[24.7,46.7],"土耳其":[39.9,32.85],"敘利亞":[33.5,36.3],"黎巴嫩":[33.9,35.5],"葉門":[15.4,44.2],"伊拉克":[33.3,44.4],"埃及":[30.05,31.25],"奈及利亞":[9.1,7.4],"衣索比亞":[9,38.75],"蘇丹":[15.6,32.5],"南非":[-25.7,28.2],"肯亞":[-1.3,36.8],"剛果":[-4.3,15.3],"澳洲":[-35.3,149.1],"紐西蘭":[-41.3,174.8]};
@@ -102,14 +102,14 @@ function dashboard(){
   const s=D.stories,ex=D.extra||[],reg={};[...s,...ex].forEach(x=>reg[x.region]=(reg[x.region]||0)+1);
   const rmax=Math.max(1,...Object.values(reg)),hs=heat(),hmax=Math.max(1,...hs.map(x=>x[1]));
   const news=s.map(x=>`<button class="row" data-id="${esc(x.id)}"><span class="score ${x.score>=8?"hi":""}">${x.score}</span><span class="tag">${esc(x.country)}</span>${esc(x.title_zh||x.title)}</button>`).join("")
-   +ex.map(x=>`<a class="row" href="${safeUrl(x.url)}" target="_blank" rel="noopener noreferrer"><span class="score lo">${x.score}</span><span class="tag">${esc(x.country)}</span>${esc(x.title)} <span class="mut">${esc(x.source)}</span></a>`).join("");
+   +ex.map(x=>`<a class="row" href="${safeUrl(x.url)}" target="_blank" rel="noopener noreferrer"><span class="score lo">${x.score}</span><span class="tag">${esc(x.country)}</span>${esc(x.title_zh||x.title)}<br><span class="mut">${esc(x.gist||"")} ${esc(x.source)}</span></a>`).join("");
   const dg=D.digest;
   const ai=dg?`<div class="brief"><p>${esc(dg.overview)}</p></div>${(dg.trends||[]).map(t=>`<div class="trend">${esc(t)}</div>`).join("")}`:`<p class="mut">今日沒有 AI 分析（未設定 AI_API_KEY，或 AI 呼叫失敗）。左側新聞流仍是真實抓取的新聞。</p>`;
   const watch=D.watch.map(w=>`<div class="wrow"><b>${esc(w.name)}</b><span class="st ${w.status.includes("有新")?"on":"off"}">${esc(w.status)}</span><br>${w.latest?`<a href="${safeUrl(w.latest.url)}" target="_blank" rel="noopener noreferrer">${esc(w.latest.title)}</a> <span class="mut">${esc(w.latest.date)}</span>`:'<span class="mut">尚無紀錄</span>'}</div>`).join("");
   const srcs=Object.entries(D.source_status).map(([k,v])=>`<span class="src ${v.ok?"ok":"bad"}">${v.ok?"●":"○"} ${esc(k)}${v.ok?" "+v.count:""}</span>`).join("");
   const k=dg&&(dg.knowledge||[])[0];
   return `<div class="strip"><span class="chip"><b>${esc(D.date)}</b></span><span class="chip">事件 <b>${D.stats.events}</b></span><span class="chip">文章 <b>${D.stats.articles}</b></span>
-   <span class="chip ${D.stats.sources_ok===D.stats.sources_total?"ok":"bad"}">來源 <b>${D.stats.sources_ok}/${D.stats.sources_total}</b></span><span class="chip ${D.ai_enabled?"ok":"bad"}">AI <b>${D.ai_enabled?"ON":"OFF"}</b></span>
+   <span class="chip ${D.stats.sources_ok===D.stats.sources_total?"ok":"bad"}">來源 <b>${D.stats.sources_ok}/${D.stats.sources_total}</b></span><span class="chip ${D.ai_enabled?"ok":"bad"}">AI <b>${D.ai_enabled?"ON":"OFF"}</b></span>${(D.ai_errors||[]).length?`<span class="chip bad" title="${esc(D.ai_errors[0])}">AI 錯誤：${esc(D.ai_errors[0].slice(0,90))}</span>`:""}
    ${D.shortfall_note?`<span class="chip warn">${esc(D.shortfall_note)}</span>`:""}</div>
   <div class="dash">${mapPanel("56vh")}
    <section class="panel s4"><div class="ph"><b>LIVE NEWS　新聞流</b><span class="mut">前 ${s.length} 則＝十大（可點開完整分析）</span></div><div class="pb" style="max-height:440px;padding:4px 12px">${news}</div></section>
