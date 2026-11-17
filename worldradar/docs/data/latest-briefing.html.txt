@@ -1,59 +1,59 @@
 <b>WORLD RADAR</b>
 <b>GLOBAL DAILY BRIEFING</b>
 
-日期：2026/11/16
+日期：2026/11/17
 
 <b>一、今日全球局勢總覽</b>
 （今日未啟用 AI，僅提供程式篩選的原始新聞清單。）
 
 <b>二、全球十大重要新聞</b>
 
-<b>1. Estonia to close Russian border crossings after attempted arson attack</b>
-國家：俄羅斯｜重要性：9/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Estonia to close Russian border crossings after attempted arson attack
-<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5">原始新聞</a>｜<a href="https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker">The Guardian</a>｜<a href="https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory">France 24</a>
+<b>1. British actor Robert Pattinson named as new James Bond</b>
+國家：英國｜重要性：9/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）British actor Robert Pattinson named as new James Bond
+<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5">原始新聞</a>｜<a href="https://www.ft.com/content/29fb712d-776e-42f9-a639-4ffdce7d652e?syn-25a6b1a6=1">Financial Times</a>｜<a href="https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond">France 24</a>
 
-<b>2. Iran targets US military base in Bahrain with drone attack</b>
-國家：伊朗｜重要性：9/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Iran targets US military base in Bahrain with drone attack
-<a href="https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss">原始新聞</a>｜<a href="https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain">The Guardian</a>｜<a href="https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain">France 24</a>
+<b>2. California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies</b>
+國家：全球｜重要性：8/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5">原始新聞</a>｜<a href="https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks">France 24</a>｜<a href="https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html">CNBC</a>
 
-<b>3. Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says</b>
-國家：西班牙｜重要性：8/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says
-<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3hsQmM3QjN3aXVLQ0UzaF9LcVJMb2xHd0JsYXY5WTNtd2tZT1VFX3pydVprLTdiaktwelM0dlkyZldVR19yT3cwMlhGbk4wemc2ajU1NzBPd01PQi1zMkZFNVRKdnpUTE13X3RtYy04ZGduR00tb1NSMHFoWWFTeDdzT1RNd2FLZWtTYmNmbThmQ0FxdGxScWRYREJQRDUxN1FGSA?oc=5">原始新聞</a>｜<a href="https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days">France 24</a>｜<a href="https://www.dw.com/en/nearly-1-600-migrants-arrive-on-spain-s-canary-islands-in-one-day/a-79952941?maca=en-rss-en-all-1573-rdf">DW</a>
-
-<b>4. Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports</b>
-國家：中國｜重要性：8/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports
-<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5">原始新聞</a>｜<a href="https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1">Financial Times</a>｜<a href="https://www.channelnewsasia.com/world/jensen-huang-discusses-comback-nvidia-6553591">CNA (Channel NewsAsia)</a>
-
-<b>5. Reactions outside court after Jordan sentences 3 men to death over deadly church attack</b>
+<b>3. Lindsay Clancy to face murder retrial in March over killing of her children</b>
 國家：全球｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Reactions outside court after Jordan sentences 3 men to death over deadly church attack
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbkh1TnBIZHBDcEZGNm04T1pteW8wQ2RtdG5UaXMtMGlCaVVvYkQyRVlpS0ExWkJkWWhGcHZGaFJ1U0FsWncxdEZSS3hFOUsxWWNUZXA5b1poNUNjMV9RNjBBTVVNQjlndHFETnoyYnkxamQ1alNqbVFMa2ctalJERWhnTXpocjJHVGRoWmN3VmdjdFdrZW5DT2h2Yk1UUG1CZlNvM09VMlRuNEd0TEh5MGNyX0NMOFIwLTRlX0NXRnIxeWZ2SndqcmdmV0tUX1hPMDNqRmk0UXZaMllINlE?oc=5">原始新聞</a>｜<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW5qZzl5QmYwRkpOaUNfQlVXU1FOdEhVX0RUWEtsYjU5a3ZfWEJGS3R4MjVRYlVha3ZrcWpnQVV1SHQ0c09qY0V2U2RscnZUNjlaVjUwYW1GN2pfMjNHNE1LemRjUEZTSGlQY3JhcUNFTjhOYlNDZkVQTzFVbHZ1elgzX01md3BoRG0tam4zVEFha2tnUjU5TlllRmtrb09PMHFQVFZmNXNWSm9wTVRPYUFn?oc=5">Reuters</a>｜<a href="https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss">Al Jazeera</a>
+摘要：（未翻譯）Lindsay Clancy to face murder retrial in March over killing of her children
+<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXhlVy1lNkh3XzNRSXRLSTVlZUJybGJKdGtnT1RvTjRsVTVOUXd3OXVPbkxVa1hXcFp3eDhUUEFLWnFLZ0lNUXVvRURaekNndi1ESk5UMk45OC1TRjQ2aFYwOC0xNVpjY043M0ZpWHdEdkRmM0phNW5MVzBkejl6eVJVSDBIQk1wMWR2ZUlWdU9xQjVEaF9JV2hraWNYWmlwbWc?oc=5">原始新聞</a>｜<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNWExxSXJVZFhpQVdrcVhYNXhaWEFldXg4NUxQZmxKNzQ5Z0NnWnNLOGNVZWRxMk1kNDcxOU50dGZTZkZ4a2dMb3pDMzZzRDliRmp0MjdubDVFdjRrbWVMS19LdERoMXhEd2NJLTcyUmRGMFFtU2Z3Q25hMHlJTWY0TGhRVDZBZ21wTlF1YTFCZVFYNEU1Tm9hWjFZWjhJdXYzNDZTeGtmUjl0SmxzVmlRSjJR?oc=5">Reuters</a>｜<a href="https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&amp;at_campaign=rss">BBC</a>
 
-<b>6. Top scorer on South Korean tax exam confesses to cheating with AI</b>
-國家：南韓｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Top scorer on South Korean tax exam confesses to cheating with AI
-<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5">原始新聞</a>｜<a href="https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss">BBC</a>｜<a href="https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam">The Guardian</a>
+<b>4. United Airlines says ‘widespread’ system outage resolved</b>
+國家：全球｜重要性：7/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）United Airlines says ‘widespread’ system outage resolved
+<a href="https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage">原始新聞</a>｜<a href="https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-rdf">DW</a>｜<a href="https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html">CNBC</a>
 
-<b>7. Awkward moment awaits PM with potential Putin photo</b>
+<b>5. Russia’s richest woman hit by EU sanctions</b>
+國家：歐盟｜重要性：7/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Russia’s richest woman hit by EU sanctions
+<a href="https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1">原始新聞</a>｜<a href="https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-rdf">DW</a>
+
+<b>6. Carney says Canada could turn to Chinese automakers if Trump trade talks fail</b>
+國家：中國｜重要性：7/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Carney says Canada could turn to Chinese automakers if Trump trade talks fail
+<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5">原始新聞</a>｜<a href="https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks">The Guardian</a>
+
+<b>7. Estonia to close Russia border crossings after attempted drone factory arson attack</b>
 國家：俄羅斯｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Awkward moment awaits PM with potential Putin photo
-<a href="https://www.areanews.com.au/story/9391656/awkward-moment-awaits-pm-with-potential-putin-photo/">原始新聞</a>｜<a href="https://www.muswellbrookchronicle.com.au/story/9391656/awkward-moment-awaits-pm-with-potential-putin-photo/">muswellbrookchronicle.com.au</a>｜<a href="https://www.southernhighlandnews.com.au/story/9391656/awkward-moment-awaits-pm-with-potential-putin-photo/">southernhighlandnews.com.au</a>
+摘要：（未翻譯）Estonia to close Russia border crossings after attempted drone factory arson attack
+<a href="https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&amp;at_campaign=rss">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html">CNBC</a>
 
-<b>8. Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder</b>
+<b>8. JPMorgan says software bug slows its transactions</b>
 國家：全球｜重要性：6/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder
-<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5">原始新聞</a>｜<a href="http://www.dailyadvance.com/news/national/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/article_2d690647-3e99-5e64-ae1e-72ed9b03814e.html">dailyadvance.com</a>｜<a href="https://www.dailygazette.com/hv360/ap/business/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/article_2e4c1fa1-ead7-5986-92a3-a73a1de2741c.html">dailygazette.com</a>
+摘要：（未翻譯）JPMorgan says software bug slows its transactions
+<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5">原始新聞</a>｜<a href="https://www.channelnewsasia.com/business/jpmorgan-says-software-bug-slows-its-transactions-6556951">CNA (Channel NewsAsia)</a>
 
-<b>9. Israel kills senior member of Hamas&#x27;s military wing in Gaza strike</b>
-國家：以色列／加薩｜重要性：6/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Israel kills senior member of Hamas&#x27;s military wing in Gaza strike
-<a href="https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike">原始新聞</a>｜<a href="https://www.freemalaysiatoday.com/category/world/2026/11/15/israeli-military-says-it-struck-senior-member-of-hamas-military-wing">freemalaysiatoday.com</a>
+<b>9. Europe hunts for Palantir alternatives as militaries seek to limit US dependence</b>
+國家：法國｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Europe hunts for Palantir alternatives as militaries seek to limit US dependence
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcjVNWm1heHIxeU1IRGtudWhZbVNPVVZZSjZfUV9nVnZuanNhVmVIQkQwMVlKd0wzWHFvT1lBTUZjTUoxV2doaVJzV1NQQkpsNnRKNTNQdEFzM09HYlJrd0ZtY3lhVkN2Wl9yU0hiVW5BclVMc3NGWEE4a1IzYllxM2d0YzlfTk5nWWZtUTh5RFhMUkRSMU9uak1jekt5bEJnRE1ycGk1NHRIWXRBWTQwQS1URkJuUkptUERCRVBrZWhIQjJ2MG1iLQ?oc=5">原始新聞</a>｜<a href="https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence">France 24</a>
 
-<b>10. Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province</b>
-國家：沙烏地阿拉伯｜重要性：6/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province
-<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5">原始新聞</a>｜<a href="https://www.omanobserver.om/article/1199693/world/region/saudi-intercepts-two-ballistic-missiles-fired-towards-riyadh">omanobserver.om</a>
+<b>10. Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war</b>
+國家：伊朗｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war
+<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPZG5hSUlUV1Faal92TE5Na3NzVENGU181SVRwMnN1VzgzMm0xUERkZDdFZG9DLUl6SVhLbnFTSXktZEcwU0RSMTBFaUlPYUZ3TjljdkU3NzdBcGVvQTMwd0Rxa0g1bVFfZnp6eWVkMDg2OGQ0aUczYlc2Q3NtaWRaWU9VSkNJeUZMZ1EyWDNoNXhha1YwQXRfUUpQYm1RbmZEV25QZTRuN3ZFMjRocWNwZ2dBZno?oc=5">原始新聞</a>｜<a href="https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military">The Guardian</a>
