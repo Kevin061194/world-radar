@@ -8,50 +8,50 @@
 
 <b>二、全球十大重要新聞</b>
 
-<b>1. British actor Robert Pattinson named as new James Bond</b>
-國家：英國｜重要性：9/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）British actor Robert Pattinson named as new James Bond
-<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5">原始新聞</a>｜<a href="https://www.ft.com/content/29fb712d-776e-42f9-a639-4ffdce7d652e?syn-25a6b1a6=1">Financial Times</a>｜<a href="https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond">France 24</a>
-
-<b>2. California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies</b>
-國家：全球｜重要性：8/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5">原始新聞</a>｜<a href="https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks">France 24</a>｜<a href="https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html">CNBC</a>
-
-<b>3. Lindsay Clancy to face murder retrial in March over killing of her children</b>
+<b>1. 1.5-hour-long system outage forces United Airlines to delay departing flights</b>
 國家：全球｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Lindsay Clancy to face murder retrial in March over killing of her children
-<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXhlVy1lNkh3XzNRSXRLSTVlZUJybGJKdGtnT1RvTjRsVTVOUXd3OXVPbkxVa1hXcFp3eDhUUEFLWnFLZ0lNUXVvRURaekNndi1ESk5UMk45OC1TRjQ2aFYwOC0xNVpjY043M0ZpWHdEdkRmM0phNW5MVzBkejl6eVJVSDBIQk1wMWR2ZUlWdU9xQjVEaF9JV2hraWNYWmlwbWc?oc=5">原始新聞</a>｜<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNWExxSXJVZFhpQVdrcVhYNXhaWEFldXg4NUxQZmxKNzQ5Z0NnWnNLOGNVZWRxMk1kNDcxOU50dGZTZkZ4a2dMb3pDMzZzRDliRmp0MjdubDVFdjRrbWVMS19LdERoMXhEd2NJLTcyUmRGMFFtU2Z3Q25hMHlJTWY0TGhRVDZBZ21wTlF1YTFCZVFYNEU1Tm9hWjFZWjhJdXYzNDZTeGtmUjl0SmxzVmlRSjJR?oc=5">Reuters</a>｜<a href="https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&amp;at_campaign=rss">BBC</a>
+摘要：（未翻譯）1.5-hour-long system outage forces United Airlines to delay departing flights
+<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5">原始新聞</a>｜<a href="https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-rdf">DW</a>｜<a href="https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html">CNBC</a>
 
-<b>4. United Airlines says ‘widespread’ system outage resolved</b>
-國家：全球｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）United Airlines says ‘widespread’ system outage resolved
-<a href="https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage">原始新聞</a>｜<a href="https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-rdf">DW</a>｜<a href="https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html">CNBC</a>
-
-<b>5. Russia’s richest woman hit by EU sanctions</b>
-國家：歐盟｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Russia’s richest woman hit by EU sanctions
-<a href="https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1">原始新聞</a>｜<a href="https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-rdf">DW</a>
-
-<b>6. Carney says Canada could turn to Chinese automakers if Trump trade talks fail</b>
-國家：中國｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Carney says Canada could turn to Chinese automakers if Trump trade talks fail
-<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5">原始新聞</a>｜<a href="https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks">The Guardian</a>
-
-<b>7. Estonia to close Russia border crossings after attempted drone factory arson attack</b>
+<b>2. Trump arrives in Asia ahead of Xi and Putin summit</b>
 國家：俄羅斯｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Estonia to close Russia border crossings after attempted drone factory arson attack
-<a href="https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&amp;at_campaign=rss">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html">CNBC</a>
+摘要：（未翻譯）Trump arrives in Asia ahead of Xi and Putin summit
+<a href="https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1">原始新聞</a>｜<a href="https://www.france24.com/en/video/20261117-ukraine-russia-hit-key-bridges-ahead-of-putin-xi-trump-summit">France 24</a>
 
-<b>8. JPMorgan says software bug slows its transactions</b>
-國家：全球｜重要性：6/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）JPMorgan says software bug slows its transactions
-<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5">原始新聞</a>｜<a href="https://www.channelnewsasia.com/business/jpmorgan-says-software-bug-slows-its-transactions-6556951">CNA (Channel NewsAsia)</a>
+<b>3. Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports</b>
+國家：中國｜重要性：7/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports
+<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNTkRSdklpUUw5TWMwRC1JeG1YVHFnY0RXSTZwQmQ1MlJQRUhBb05zV2JUSUtiZnJKMktZRHJvdnNMT0l4NDFUaFBTUW1rZmp3ZVhHTkMwWnZNdDJURnpQZ1h1dEU0QkQ0enNEblk0Sjc2T3VXTWJlOW01SXdQY2RwMk5UTTd1RHcwVHlfdDVqd0ptVEdqSUl5ejVvbTZzcU9aUVhVR2FEU21DYWZTZGFzMlNQU1QyeldHTWc?oc=5">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html">CNBC</a>
 
-<b>9. Europe hunts for Palantir alternatives as militaries seek to limit US dependence</b>
+<b>4. Putin&#x27;s Crimea bridge partly collapses as Zelensky hails &#x27;unprecedented&#x27; attack by Ukraine</b>
+國家：烏克蘭｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Putin&#x27;s Crimea bridge partly collapses as Zelensky hails &#x27;unprecedented&#x27; attack by Ukraine
+<a href="https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss">原始新聞</a>｜<a href="https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss">Al Jazeera</a>
+
+<b>5. Singapore outclassed in 7-0 defeat by Brazil as Vinicius Jr scores hat-trick</b>
+國家：巴西｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Singapore outclassed in 7-0 defeat by Brazil as Vinicius Jr scores hat-trick
+<a href="https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss">原始新聞</a>｜<a href="https://www.channelnewsasia.com/singapore/singapore-lions-brazil-mizuho-blue-challenge-6558566">CNA (Channel NewsAsia)</a>
+
+<b>6. Ukraine damages Crimean bridge in major strike as Russia pounds Kyiv bridges</b>
+國家：烏克蘭｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Ukraine damages Crimean bridge in major strike as Russia pounds Kyiv bridges
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5">原始新聞</a>｜<a href="https://www.channelnewsasia.com/world/ukraine-missile-strike-severs-russia-crimean-bridge-6558936">CNA (Channel NewsAsia)</a>
+
+<b>7. Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain</b>
+國家：伊朗｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain
+<a href="https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html">CNBC</a>
+
+<b>8. Trump kicks off Asia trip that will see nuclear talks with Xi, Putin</b>
+國家：美國｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Trump kicks off Asia trip that will see nuclear talks with Xi, Putin
+<a href="https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-all-1573-rdf">原始新聞</a>｜<a href="https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia">France 24</a>
+
+<b>9. Malaysia loosens rare earths curbs for France amid upgraded ties</b>
 國家：法國｜重要性：6/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Europe hunts for Palantir alternatives as militaries seek to limit US dependence
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcjVNWm1heHIxeU1IRGtudWhZbVNPVVZZSjZfUV9nVnZuanNhVmVIQkQwMVlKd0wzWHFvT1lBTUZjTUoxV2doaVJzV1NQQkpsNnRKNTNQdEFzM09HYlJrd0ZtY3lhVkN2Wl9yU0hiVW5BclVMc3NGWEE4a1IzYllxM2d0YzlfTk5nWWZtUTh5RFhMUkRSMU9uak1jekt5bEJnRE1ycGk1NHRIWXRBWTQwQS1URkJuUkptUERCRVBrZWhIQjJ2MG1iLQ?oc=5">原始新聞</a>｜<a href="https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence">France 24</a>
+摘要：（未翻譯）Malaysia loosens rare earths curbs for France amid upgraded ties
+<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkFoZEl3VnoyRDVaeVc5dFpqSTZhWU5RZXM0Y2hSQmYxZUN0ekRoWFVTZkRMVHNlNGZ5ODB1bmhNVWVQdS02bW9mNDZmTXRVX1lpU1dBY3RWaTI4anQ1LWowZUx5b01qdUhZSFRhdC1helV5aWhFaXpweVhQaW43el91R2dJd3VOcWUzUjV1WjNmeHVQS0N0cVBRWXNoMmVoMGp6dzBwQkF0OVI3ZXBPR2EyeTd5SGRIa01RWDZCMG1NVkU2a3FGSlBQbndhcGFSMnEtOS1Baw?oc=5">原始新聞</a>｜<a href="https://www.france24.com/en/asia-pacific/20261117-macron-malaysia-france-defence-rare-earths-trade-energy">France 24</a>
 
 <b>10. Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war</b>
 國家：伊朗｜重要性：6/10｜多來源報導（已交叉比對）
