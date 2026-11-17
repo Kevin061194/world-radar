@@ -3,25 +3,27 @@
 
 日期：2026/11/17
 
+今日符合重大新聞標準的事件只有 8 則，系統不會用不重要的新聞湊數。
+
 <b>一、今日全球局勢總覽</b>
 （今日未啟用 AI，僅提供程式篩選的原始新聞清單。）
 
 <b>二、全球十大重要新聞</b>
 
-<b>1. 1.5-hour-long system outage forces United Airlines to delay departing flights</b>
-國家：全球｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）1.5-hour-long system outage forces United Airlines to delay departing flights
-<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5">原始新聞</a>｜<a href="https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-rdf">DW</a>｜<a href="https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html">CNBC</a>
-
-<b>2. Trump arrives in Asia ahead of Xi and Putin summit</b>
+<b>1. Trump arrives in Asia ahead of Xi and Putin summit</b>
 國家：俄羅斯｜重要性：7/10｜多來源報導（已交叉比對）
 摘要：（未翻譯）Trump arrives in Asia ahead of Xi and Putin summit
 <a href="https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1">原始新聞</a>｜<a href="https://www.france24.com/en/video/20261117-ukraine-russia-hit-key-bridges-ahead-of-putin-xi-trump-summit">France 24</a>
 
-<b>3. Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports</b>
-國家：中國｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Nvidia warns chip buyers of legal risks tied to China AI access, CNBC reports
-<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNTkRSdklpUUw5TWMwRC1JeG1YVHFnY0RXSTZwQmQ1MlJQRUhBb05zV2JUSUtiZnJKMktZRHJvdnNMT0l4NDFUaFBTUW1rZmp3ZVhHTkMwWnZNdDJURnpQZ1h1dEU0QkQ0enNEblk0Sjc2T3VXTWJlOW01SXdQY2RwMk5UTTd1RHcwVHlfdDVqd0ptVEdqSUl5ejVvbTZzcU9aUVhVR2FEU21DYWZTZGFzMlNQU1QyeldHTWc?oc=5">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html">CNBC</a>
+<b>2. Iran dismisses report of alleged &#x27;dirty bomb&#x27; attack on Washington</b>
+國家：伊朗｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Iran dismisses report of alleged &#x27;dirty bomb&#x27; attack on Washington
+<a href="https://www.dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741?maca=en-rss-en-all-1573-rdf">原始新聞</a>｜<a href="https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss">Al Jazeera</a>
+
+<b>3. United Airlines resolves tech outage that delayed flights</b>
+國家：全球｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）United Airlines resolves tech outage that delayed flights
+<a href="https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-rdf">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html">CNBC</a>
 
 <b>4. Putin&#x27;s Crimea bridge partly collapses as Zelensky hails &#x27;unprecedented&#x27; attack by Ukraine</b>
 國家：烏克蘭｜重要性：6/10｜多來源報導（已交叉比對）
@@ -38,22 +40,12 @@
 摘要：（未翻譯）Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain
 <a href="https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html">CNBC</a>
 
-<b>7. Malaysia loosens rare earths curbs for France amid upgraded ties</b>
-國家：法國｜重要性：6/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Malaysia loosens rare earths curbs for France amid upgraded ties
-<a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkFoZEl3VnoyRDVaeVc5dFpqSTZhWU5RZXM0Y2hSQmYxZUN0ekRoWFVTZkRMVHNlNGZ5ODB1bmhNVWVQdS02bW9mNDZmTXRVX1lpU1dBY3RWaTI4anQ1LWowZUx5b01qdUhZSFRhdC1helV5aWhFaXpweVhQaW43el91R2dJd3VOcWUzUjV1WjNmeHVQS0N0cVBRWXNoMmVoMGp6dzBwQkF0OVI3ZXBPR2EyeTd5SGRIa01RWDZCMG1NVkU2a3FGSlBQbndhcGFSMnEtOS1Baw?oc=5">原始新聞</a>｜<a href="https://www.france24.com/en/asia-pacific/20261117-macron-malaysia-france-defence-rare-earths-trade-energy">France 24</a>
+<b>7. Ed Miliband announces first sanctions on Israeli firms working in West Bank</b>
+國家：以色列／加薩｜重要性：5/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Ed Miliband announces first sanctions on Israeli firms working in West Bank
+<a href="https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions">原始新聞</a>｜<a href="https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss">Al Jazeera</a>
 
-<b>8. Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war</b>
-國家：伊朗｜重要性：6/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war
-<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPZG5hSUlUV1Faal92TE5Na3NzVENGU181SVRwMnN1VzgzMm0xUERkZDdFZG9DLUl6SVhLbnFTSXktZEcwU0RSMTBFaUlPYUZ3TjljdkU3NzdBcGVvQTMwd0Rxa0g1bVFfZnp6eWVkMDg2OGQ0aUczYlc2Q3NtaWRaWU9VSkNJeUZMZ1EyWDNoNXhha1YwQXRfUUpQYm1RbmZEV25QZTRuN3ZFMjRocWNwZ2dBZno?oc=5">原始新聞</a>｜<a href="https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military">The Guardian</a>
-
-<b>9. Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies</b>
-國家：美國｜重要性：5/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies
-<a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQNThOYXI2SmpKNVh5LU05MjAyN2F2YjJHbUJJeG1IOHhWOTFPQVp2U3VUTVdhcHUtVkpUWDhKb3ZOSnFCZE0wNVAtZ1NmOUMyaERmZ3RWTDF6TmFzQ2pSWkpPZVhjeUlwTnp2M1dBRW1RbFBIYUhHTUduczlyQ0JlRHA4bFFfbHVad3dZNnc3UzFGb21UQUk4?oc=5">原始新聞</a>｜<a href="https://www.france24.com/en/video/20261117-trump-arrives-in-philippines-to-kick-off-asia-trip">France 24</a>
-
-<b>10. Mozambique opposition leader faces trial over deadly 2024 election unrest</b>
+<b>8. Mozambique opposition leader faces trial over deadly 2024 election unrest</b>
 國家：全球｜重要性：5/10｜多來源報導（已交叉比對）
 摘要：（未翻譯）Mozambique opposition leader faces trial over deadly 2024 election unrest
 <a href="https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&amp;at_campaign=rss">原始新聞</a>｜<a href="https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss">Al Jazeera</a>
