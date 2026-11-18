@@ -69,7 +69,7 @@ def score_cluster(articles):
     for a in articles:
         by_src.setdefault(a["source_key"], a)
     n = len(by_src)
-    kw = min(3.0, sum(w for rx, w in IMPACT_RE if rx.search(text)))
+    kw = min(4.0, sum(w for rx, w in IMPACT_RE if rx.search(text)))
     cred = sum(a["weight"] for a in by_src.values())
     raw = 1.0 + 1.3 * min(n, 4) + kw + (0.5 if cred >= 2.5 else 0)
     return max(1, min(10, round(raw))), n, text

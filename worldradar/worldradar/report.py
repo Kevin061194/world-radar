@@ -11,12 +11,12 @@ def briefing(date, stories, digest, shortfall_note=""):
     out.append("<b>二、全球十大重要新聞</b>")
     for s in stories:
         a = s.get("ai") or {}
-        title = a.get("title_zh") or s["title"]
+        title = a.get("title_zh") or s.get("title_zh") or s["title"]
         link = s["sources"][0]["url"] if s["sources"] else ""
         extra = "\n".join(f'<a href="{esc(x["url"])}">{esc(x["name"])}</a>' for x in s["sources"][1:3])
         block = [f"<b>{s['rank']}. {esc(title)}</b>",
                  f"國家：{esc(s['country'])}｜重要性：{s['score']}/10｜{esc(s['verification'])}",
-                 "摘要：" + esc(a.get("short") or "（未翻譯）" + s["title"])]
+                 "摘要：" + esc(a.get("short") or s.get("gist") or ("（未翻譯）" + s["title"]))]
         if a.get("why"):
             block.append("為什麼重要：" + esc(a["why"]))
         if a.get("taiwan"):

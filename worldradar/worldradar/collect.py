@@ -64,6 +64,13 @@ def parse_feed(xml_bytes, key, name, weight):
     return items
 
 
+def trusted_weight(domain):
+    for d, w in config.DOMAIN_WEIGHTS.items():
+        if domain == d or domain.endswith("." + d):
+            return w
+    return None
+
+
 def parse_gdelt(raw):
     data = json.loads(raw)
     out = []
@@ -75,8 +82,11 @@ def parse_gdelt(raw):
             continue
         if not a.get("title") or not a.get("url"):
             continue
+        w = trusted_weight(domain)
+        if w is None:  # 不在可信名單的網站（例如轉載同一篇稿的地方小報）一律不收
+            continue
         out.append({"title": _clean(a["title"]), "url": a["url"], "source": domain, "source_key": domain,
-                    "published": pub, "summary": "", "weight": config.DOMAIN_WEIGHTS.get(domain, config.DEFAULT_GDELT_WEIGHT)})
+                    "published": pub, "summary": "", "weight": w})
     return out
 
 

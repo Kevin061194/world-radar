@@ -1,7 +1,7 @@
 """離線測試：新聞內容為「測試夾具」，只在測試中使用，絕不會出現在正式系統。"""
 import datetime as dt, json, pathlib, sys, tempfile, unittest
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
-from worldradar import collect, process, ai, telegram, report, run as runmod, config, db
+from worldradar import collect, process, ai, telegram, report, run as runmod, config, db, fulltext
 
 UTC = dt.timezone.utc
 NOW = dt.datetime(2026, 11, 14, 0, 0, tzinfo=UTC)
@@ -53,6 +53,8 @@ class FakeAI:
             return json.dumps({"overview": "今日總覽測試", "trends": ["趨勢一", "趨勢二", "趨勢三"], "knowledge": [{"term": "NATO", "explain": "北大西洋公約組織"}] * 3,
                                "people_orgs": [{"name": "聯合國", "explain": "x"}] * 3, "terms": [{"term": "通膨", "explain": "x"}] * 3,
                                "think": "思考題", "quiz": [{"q": "q", "options": ["a", "b", "c", "d"], "answer": 1, "explain": "e"}] * 3})
+        if "gist" in system:
+            return json.dumps({"items": [{"i": i, "zh": "測試譯題%d" % i, "gist": "測試重點"} for i in range(100)]}, ensure_ascii=False)
         return "```json\n" + json.dumps({"title_zh": "測試標題", "short": "測試摘要 999", "what": "發生了 999 件事", "background": "背景", "why": "重要", "international": "國際", "taiwan": "台灣影響",
                                           "watch": ["a"], "people": ["某人"], "certainty": [{"claim": "c", "level": "媒體報導"}], "score_reason": "r"}, ensure_ascii=False) + "\n```"
 
@@ -82,6 +84,21 @@ class Tests(unittest.TestCase):
         war = [s for s in stories if "Kyiv" in s["title"]][0]
         self.assertEqual(war["country"], "烏克蘭" if war["country"] == "烏克蘭" else war["country"])
         self.assertGreaterEqual(war["source_count"], 4)  # 含 GDELT 的 reuters.com
+
+    def test_gdelt_drops_untrusted_regional_sites(self):
+        raw = json.dumps({"articles": [
+            {"url": "https://www.westernadvocate.com.au/a", "title": "Mark Kenny | Can Labor find its mojo?", "seendate": "20261114T000000Z", "domain": "westernadvocate.com.au"},
+            {"url": "https://edition.cnn.com/b", "title": "Big world story", "seendate": "20261114T000000Z", "domain": "edition.cnn.com"}]})
+        got = collect.parse_gdelt(raw)
+        self.assertEqual([g["source"] for g in got], ["edition.cnn.com"])
+
+    def test_fulltext_extraction(self):
+        para = "這是一段足夠長的新聞內文，用來測試全文擷取功能是否能正確保留段落。" * 3
+        html = f"<html><nav><p>{para}</p></nav><body><script>var x=1;</script><p>{para}</p><p>短</p><footer><p>{para}</p></footer></body></html>"
+        txt = fulltext.extract_text(html)
+        self.assertEqual(txt.count("這是一段足夠長"), 3)  # 只保留 body 的一段（該段內重複 3 次），nav/footer 被排除
+        self.assertEqual(fulltext.get_fulltext(lambda *a, **k: (_ for _ in ()).throw(IOError("x")), "https://a.test/x"), "")
+        self.assertEqual(fulltext.get_fulltext(lambda *a, **k: b"", "https://news.google.com/x"), "")
 
     def test_telegram_chunk_lossless(self):
         text = "\n\n".join(("段落%d " % i) + "字" * 900 for i in range(20)) + "\n\n" + "長" * 9000
@@ -114,6 +131,8 @@ class Tests(unittest.TestCase):
             self.assertEqual(data["stories"][0]["title_zh"], "測試標題")
             self.assertTrue(data["stories"][0]["ai"]["unverified_numbers"])  # 999 不在來源 → 被標記
             self.assertTrue(any(w["timeline"] for w in data["watch"]))
+            self.assertTrue(all("summary_en" in e for e in data["extra"]))
+            self.assertEqual(data["ai_errors"], [])
             self.assertIn("GLOBAL DAILY BRIEFING", sent[0][0])
             self.assertTrue((td / "docs/data/index.json").exists())
             conn = db.connect(td / "t.db")

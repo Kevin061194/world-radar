@@ -46,7 +46,11 @@ GDELT_URL = ("https://api.gdeltproject.org/api/v2/doc/doc?query="
 DOMAIN_WEIGHTS = {"reuters.com": 1.0, "apnews.com": 1.0, "bbc.com": 0.95, "bbc.co.uk": 0.95, "ft.com": 0.95,
                   "theguardian.com": 0.9, "dw.com": 0.9, "france24.com": 0.9, "aljazeera.com": 0.85,
                   "nhk.or.jp": 0.9, "asia.nikkei.com": 0.9, "cnbc.com": 0.85, "cnn.com": 0.8,
-                  "channelnewsasia.com": 0.85, "bloomberg.com": 0.95, "nytimes.com": 0.9, "wsj.com": 0.9}
+                  "channelnewsasia.com": 0.85, "bloomberg.com": 0.95, "nytimes.com": 0.9, "wsj.com": 0.9,
+                  "washingtonpost.com": 0.9, "economist.com": 0.9, "politico.com": 0.85, "axios.com": 0.8, "npr.org": 0.85,
+                  "scmp.com": 0.8, "japantimes.co.jp": 0.85, "straitstimes.com": 0.85, "abc.net.au": 0.85, "cbc.ca": 0.85,
+                  "nikkei.com": 0.9, "focustaiwan.tw": 0.85, "taipeitimes.com": 0.8, "koreaherald.com": 0.8,
+                  "techcrunch.com": 0.75, "theverge.com": 0.75, "cnbc.com": 0.85, "aljazeera.com": 0.85}
 DEFAULT_GDELT_WEIGHT = 0.6
 
 CATEGORIES = ["國際政治與外交", "戰爭與軍事安全", "全球經濟與金融", "國際貿易與產業", "科技與人工智慧",
@@ -127,6 +131,8 @@ IMPACT_KEYWORDS = [
     (r"earthquake|tsunami|hurricane|typhoon|outbreak|pandemic", 1.5),
     (r"semiconductor|chips?|tsmc|nvidia|artificial intelligence|\bai\b", 1.2),
     (r"taiwan|taipei|taiwan strait", 2.0),
+    (r"nvidia|jensen huang|openai|tsmc|microsoft|apple|elon musk|tesla|alphabet|google", 1.2),
+    (r"trump|xi jinping|putin|zelensky|netanyahu|modi|macron|white house|supreme court|midterm", 1.2),
 ]
 
 WATCH_TOPICS = [

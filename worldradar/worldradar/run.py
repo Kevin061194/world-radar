@@ -1,6 +1,6 @@
 """每日主流程。用法：python -m worldradar.run [--no-ai] [--no-telegram]"""
 import argparse, datetime as dt, json, logging, re, sys
-from . import config, collect, process, db, ai, report, telegram
+from . import config, collect, process, db, ai, report, telegram, fulltext
 from .http import fetch, check_url
 
 log = logging.getLogger("worldradar")
@@ -21,7 +21,7 @@ def setup_logging(date_str):
 
 
 def public(s):
-    return {k: v for k, v in s.items() if k != "_text"}
+    return {k: v for k, v in s.items() if not k.startswith("_")}
 
 
 def build_watch(conn, clusters_all, top, date):
@@ -46,6 +46,7 @@ def build_watch(conn, clusters_all, top, date):
 def run(now=None, use_ai=True, send=True, fetcher=fetch, provider="env", sender=telegram.send,
         url_checker=check_url, db_path=None, docs_dir=None):
     now = now or dt.datetime.now(UTC)
+    ai.ERRORS.clear()
     date = now.astimezone(TW).strftime("%Y-%m-%d")
     setup_logging(date)
     docs_dir = docs_dir or config.DOCS
@@ -73,7 +74,7 @@ def run(now=None, use_ai=True, send=True, fetcher=fetch, provider="env", sender=
     top_ids = {s["id"] for s in top}
     rest = sorted((s for s in stories_all if s["id"] not in top_ids), key=lambda s: -s["score"])
     extra = [{"title": s["title"], "source": s["sources"][0]["name"], "url": s["sources"][0]["url"], "category": s["category"],
-              "region": s["region"], "country": s["country"], "score": s["score"]} for s in rest[:60]]
+              "region": s["region"], "country": s["country"], "score": s["score"], "summary_en": s["summary_en"][:200]} for s in rest[:60]]
     note = ""
     if len(top) < 10:
         note = f"今日符合重大新聞標準的事件只有 {len(top)} 則，系統不會用不重要的新聞湊數。"
@@ -86,13 +87,38 @@ def run(now=None, use_ai=True, send=True, fetcher=fetch, provider="env", sender=
         if not any(x["url_ok"] for x in s["sources"]):
             log.warning("所有來源網址皆無法開啟：%s", s["title"][:60])
 
+    # 抓文章全文（供 AI 寫出有內容的分析）
+    for s in top:
+        texts = []
+        for src in s["sources"][:3]:
+            t = fulltext.get_fulltext(fetcher, src["url"])
+            if t:
+                texts.append(f"[{src['name']}] " + t)
+            if len(texts) >= 2:
+                break
+        s["_full"] = "\n\n".join(texts)
+        s["has_fulltext"] = bool(texts)
+    log.info("取得全文：%s/%s 則", sum(1 for s in top if s["has_fulltext"]), len(top))
+
     # STEP 6 AI 分析
     prov = ai.Provider.from_env() if provider == "env" else provider
     digest = None
     if use_ai and prov and top:
         ai.analyze_all(prov, top)
         digest = ai.make_digest(prov, top, [x["title"] for x in extra])
-        detail["ai"] = {"analyzed": sum(1 for s in top if s.get("ai")), "total": len(top), "digest": bool(digest)}
+        rows = [(s["title"], s["summary_en"]) for s in top if not s.get("title_zh")] + [(e["title"], e.get("summary_en", "")) for e in extra]
+        tr = ai.translate_headlines(prov, rows)
+        idx = 0
+        for s in top:
+            if not s.get("title_zh"):
+                if idx in tr:
+                    s["title_zh"], s["gist"] = tr[idx]
+                idx += 1
+        for e in extra:
+            if idx in tr:
+                e["title_zh"], e["gist"] = tr[idx]
+            idx += 1
+        detail["ai"] = {"analyzed": sum(1 for s in top if s.get("ai")), "total": len(top), "digest": bool(digest), "errors": ai.ERRORS[:5]}
     else:
         log.warning("未啟用 AI（沒有 AI_API_KEY 或使用 --no-ai），新聞將以原文呈現")
         detail["ai"] = {"analyzed": 0, "total": len(top), "digest": False}
@@ -105,7 +131,7 @@ def run(now=None, use_ai=True, send=True, fetcher=fetch, provider="env", sender=
 
     # STEP 8 網站資料
     payload = {"date": date, "generated_at": now.astimezone(TW).isoformat(), "stories": [public(s) for s in top], "extra": extra,
-               "digest": digest, "watch": watch, "shortfall_note": note, "ai_enabled": bool(digest),
+               "digest": digest, "ai_errors": ai.ERRORS[:3], "watch": watch, "shortfall_note": note, "ai_enabled": bool(digest),
                "source_status": source_status, "stats": {"articles": len(recent), "events": len(stories_all), "sources_ok": ok_sources, "sources_total": len(source_status)},
                "links": {"site": config.env("SITE_URL"), "actions": config.env("ACTIONS_URL")}}
     d = docs_dir / "data"

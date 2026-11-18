@@ -99,3 +99,133 @@
 2026-11-18 00:15:33,134 ERROR AI 摘要失敗 (2): HTTP Error 404: Not Found
 2026-11-18 00:15:39,655 INFO Telegram 已傳送 2 則
 2026-11-18 00:15:39,656 INFO === 完成，狀態：ok ===
+2026-11-18 05:23:29,325 INFO === WORLD RADAR 2026-11-18 開始 ===
+2026-11-18 05:23:30,545 WARNING fetch 失敗 (1/3) https://www3.nhk.or.jp/nhkworld/en/news/feeds/: HTTP Error 404: Not Found
+2026-11-18 05:23:31,584 WARNING fetch 失敗 (2/3) https://www3.nhk.or.jp/nhkworld/en/news/feeds/: HTTP Error 404: Not Found
+2026-11-18 05:23:33,706 WARNING fetch 失敗 (3/3) https://www3.nhk.or.jp/nhkworld/en/news/feeds/: HTTP Error 404: Not Found
+2026-11-18 05:23:33,706 ERROR 來源失敗 NHK WORLD: HTTP Error 404: Not Found
+2026-11-18 05:23:46,419 WARNING fetch 失敗 (1/3) https://api.gdeltproject.org/api/v2/doc/doc?query=(war%20OR%20election%20OR%20economy%20OR: HTTP Error 429: Too Many Requests
+2026-11-18 05:24:19,135 WARNING fetch 失敗 (2/3) https://api.gdeltproject.org/api/v2/doc/doc?query=(war%20OR%20election%20OR%20economy%20OR: The read operation timed out
+2026-11-18 05:24:33,269 WARNING fetch 失敗 (3/3) https://api.gdeltproject.org/api/v2/doc/doc?query=(war%20OR%20election%20OR%20economy%20OR: HTTP Error 429: Too Many Requests
+2026-11-18 05:24:33,269 ERROR 來源失敗 GDELT: HTTP Error 429: Too Many Requests
+2026-11-18 05:24:33,269 INFO 蒐集完成：553 篇，來源成功 12/14
+2026-11-18 05:24:33,435 INFO 事件 371 件，選出 10 則
+2026-11-18 05:24:36,808 WARNING fetch 失敗 (1/1) https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-: HTTP Error 403: Forbidden
+2026-11-18 05:24:36,835 WARNING fetch 失敗 (1/1) https://www.france24.com/en/tv-shows/business/20261117-jensen-huang-says-he-d-be-honoured-: HTTP Error 403: Forbidden
+2026-11-18 05:24:37,194 WARNING fetch 失敗 (1/1) https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-: HTTP Error 403: Forbidden
+2026-11-18 05:24:37,455 WARNING fetch 失敗 (1/1) https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-ei: HTTP Error 403: Forbidden
+2026-11-18 05:24:37,606 INFO 取得全文：8/10 則
+2026-11-18 05:24:37,701 ERROR AI 分析失敗 (1) Democrat Mary Peltola wins US Senate race in Alaska, beating: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:24:44,793 ERROR AI 分析失敗 (2) Democrat Mary Peltola wins US Senate race in Alaska, beating: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:24:58,883 ERROR AI 分析失敗 (1) China's Xi calls for free and open trade at APEC summit: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:25:05,959 ERROR AI 分析失敗 (2) China's Xi calls for free and open trade at APEC summit: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:25:20,051 ERROR AI 分析失敗 (1) Jensen Huang says he'd be honoured to return to Nvidia as CE: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:25:27,129 ERROR AI 分析失敗 (2) Jensen Huang says he'd be honoured to return to Nvidia as CE: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:25:41,221 ERROR AI 分析失敗 (1) Board of Peace delivers bleak report on Gaza, warning of cea: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:25:48,294 ERROR AI 分析失敗 (2) Board of Peace delivers bleak report on Gaza, warning of cea: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:26:02,370 ERROR AI 分析失敗 (1) Apec summit live: Xi and Putin start talks; Rubio says Trump: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:26:09,453 ERROR AI 分析失敗 (2) Apec summit live: Xi and Putin start talks; Rubio says Trump: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:26:23,539 ERROR AI 分析失敗 (1) Nvidia rejects Jensen Huang’s offer to return as CEO despite: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:26:30,620 ERROR AI 分析失敗 (2) Nvidia rejects Jensen Huang’s offer to return as CEO despite: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:26:44,704 ERROR AI 分析失敗 (1) A man destroyed a $60 million US military plane at an Irish : HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:26:51,774 ERROR AI 分析失敗 (2) A man destroyed a $60 million US military plane at an Irish : HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:27:05,863 ERROR AI 分析失敗 (1) American soldier arrested by UK police on suspicion of spyin: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:27:12,926 ERROR AI 分析失敗 (2) American soldier arrested by UK police on suspicion of spyin: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:27:27,016 ERROR AI 分析失敗 (1) 🔴Israeli parliament elects Eisenkot ally Matan Kahana as new: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:27:34,097 ERROR AI 分析失敗 (2) 🔴Israeli parliament elects Eisenkot ally Matan Kahana as new: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:27:48,172 ERROR AI 分析失敗 (1) Russian military transport plane crashes in Siberia, killing: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:27:55,239 ERROR AI 分析失敗 (2) Russian military transport plane crashes in Siberia, killing: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:28:09,324 ERROR AI 摘要失敗 (1): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:28:16,412 ERROR AI 摘要失敗 (2): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:28:23,496 ERROR 標題翻譯失敗 (1): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:28:30,570 ERROR 標題翻譯失敗 (2): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:28:44,652 ERROR 標題翻譯失敗 (1): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:28:51,737 ERROR 標題翻譯失敗 (2): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:29:05,828 ERROR 標題翻譯失敗 (1): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:29:12,903 ERROR 標題翻譯失敗 (2): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-18 05:29:28,937 INFO Telegram 已傳送 2 則
+2026-11-18 05:29:28,940 INFO === 完成，狀態：ok ===
