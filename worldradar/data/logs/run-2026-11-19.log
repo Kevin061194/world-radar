@@ -1,0 +1,127 @@
+2026-11-19 00:13:27,441 INFO === WORLD RADAR 2026-11-19 開始 ===
+2026-11-19 00:13:28,770 WARNING fetch 失敗 (1/3) https://www3.nhk.or.jp/nhkworld/en/news/feeds/: HTTP Error 404: Not Found
+2026-11-19 00:13:29,860 WARNING fetch 失敗 (2/3) https://www3.nhk.or.jp/nhkworld/en/news/feeds/: HTTP Error 404: Not Found
+2026-11-19 00:13:31,963 WARNING fetch 失敗 (3/3) https://www3.nhk.or.jp/nhkworld/en/news/feeds/: HTTP Error 404: Not Found
+2026-11-19 00:13:31,963 ERROR 來源失敗 NHK WORLD: HTTP Error 404: Not Found
+2026-11-19 00:13:43,619 WARNING fetch 失敗 (1/3) https://api.gdeltproject.org/api/v2/doc/doc?query=(war%20OR%20election%20OR%20economy%20OR: HTTP Error 429: Too Many Requests
+2026-11-19 00:13:56,017 WARNING fetch 失敗 (2/3) https://api.gdeltproject.org/api/v2/doc/doc?query=(war%20OR%20election%20OR%20economy%20OR: HTTP Error 429: Too Many Requests
+2026-11-19 00:14:09,530 WARNING fetch 失敗 (3/3) https://api.gdeltproject.org/api/v2/doc/doc?query=(war%20OR%20election%20OR%20economy%20OR: HTTP Error 429: Too Many Requests
+2026-11-19 00:14:09,530 ERROR 來源失敗 GDELT: HTTP Error 429: Too Many Requests
+2026-11-19 00:14:09,530 INFO 蒐集完成：557 篇，來源成功 12/14
+2026-11-19 00:14:09,648 INFO 事件 359 件，選出 10 則
+2026-11-19 00:14:16,748 WARNING fetch 失敗 (1/1) https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1: HTTP Error 403: Forbidden
+2026-11-19 00:14:16,961 INFO 取得全文：9/10 則
+2026-11-19 00:14:17,182 ERROR AI 分析失敗 (1) Hakeem Jeffries could become the first Black House speaker a: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:14:24,308 ERROR AI 分析失敗 (2) Hakeem Jeffries could become the first Black House speaker a: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:14:38,462 ERROR AI 分析失敗 (1) Israeli military launches rare ground operation in Gaza beyo: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:14:45,589 ERROR AI 分析失敗 (2) Israeli military launches rare ground operation in Gaza beyo: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:14:59,770 ERROR AI 分析失敗 (1) EU proposes €45 billion Ukraine loan, to be repaid after Rus: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:15:06,902 ERROR AI 分析失敗 (2) EU proposes €45 billion Ukraine loan, to be repaid after Rus: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:15:21,045 ERROR AI 分析失敗 (1) Apec summit as it happened: Xi welcomes Trump on China visit: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:15:28,189 ERROR AI 分析失敗 (2) Apec summit as it happened: Xi welcomes Trump on China visit: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:15:42,363 ERROR AI 分析失敗 (1) Palo Alto raises annual forecast, signs $4.5 billion deal fo: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:15:49,508 ERROR AI 分析失敗 (2) Palo Alto raises annual forecast, signs $4.5 billion deal fo: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:16:03,712 ERROR AI 分析失敗 (1) Waymo suspends all driverless taxi rides on freeways after b: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:16:10,835 ERROR AI 分析失敗 (2) Waymo suspends all driverless taxi rides on freeways after b: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:16:24,941 ERROR AI 分析失敗 (1) US lawmakers seek Microsoft briefing on reported AI deal tal: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:16:32,066 ERROR AI 分析失敗 (2) US lawmakers seek Microsoft briefing on reported AI deal tal: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:16:46,335 ERROR AI 分析失敗 (1) Israel launches ground operation in central Gaza, dozens fle: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:16:53,443 ERROR AI 分析失敗 (2) Israel launches ground operation in central Gaza, dozens fle: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:17:07,524 ERROR AI 分析失敗 (1) Anthropic raises $81bn in record IPO: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:17:14,674 ERROR AI 分析失敗 (2) Anthropic raises $81bn in record IPO: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:17:28,809 ERROR AI 分析失敗 (1) Anthropic reportedly prices its IPO at $83 per share, valuin: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:17:35,954 ERROR AI 分析失敗 (2) Anthropic reportedly prices its IPO at $83 per share, valuin: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:17:50,140 ERROR AI 摘要失敗 (1): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:17:57,320 ERROR AI 摘要失敗 (2): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:18:04,457 ERROR 標題翻譯失敗 (1): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:18:11,608 ERROR 標題翻譯失敗 (2): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:18:25,732 ERROR 標題翻譯失敗 (1): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:18:32,903 ERROR 標題翻譯失敗 (2): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:18:47,012 ERROR 標題翻譯失敗 (1): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:18:54,151 ERROR 標題翻譯失敗 (2): HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Inter
+2026-11-19 00:19:11,755 INFO Telegram 已傳送 3 則
+2026-11-19 00:19:11,756 INFO === 完成，狀態：ok ===
