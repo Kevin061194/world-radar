@@ -1,59 +1,59 @@
 <b>WORLD RADAR</b>
 <b>GLOBAL DAILY BRIEFING</b>
 
-日期：2026/11/19
+日期：2026/11/20
 
 <b>一、今日全球局勢總覽</b>
 （今日未啟用 AI，僅提供程式篩選的原始新聞清單。）
 
 <b>二、全球十大重要新聞</b>
 
-<b>1. Hakeem Jeffries could become the first Black House speaker after Democratic nomination</b>
+<b>1. Top UN court finds Myanmar committed genocide against Muslim Rohingya</b>
+國家：緬甸｜重要性：9/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Top UN court finds Myanmar committed genocide against Muslim Rohingya
+<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5">原始新聞</a>｜<a href="https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss">BBC</a>｜<a href="https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar">The Guardian</a>
+
+<b>2. US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says</b>
+國家：中國｜重要性：9/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says
+<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5">原始新聞</a>｜<a href="https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216">CNA (Channel NewsAsia)</a>｜<a href="https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss">Al Jazeera</a>
+
+<b>3. Denmark approves security deal with US and Greenland, seeking to finally ease tensions with Trump</b>
 國家：美國｜重要性：9/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Hakeem Jeffries could become the first Black House speaker after Democratic nomination
-<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5">原始新聞</a>｜<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFJMeDVVWnRDWmUydUhCQ0lieV9kZjdRc0xKbHA5ZDlMeG1WZ29rTWJpcGxLSE1EZEttb1Vwd2Zrdl8tX0Q1RVNEbGR0OEZqdWxLdnpkZnFBenNBclduTWhENTdhYnY1WXdjZ2RGRTVDMjFPVkpnZnJVZEZ4VngweEtJWTVlakU2ZEtDWUxTMTliZktETXlvcXFXWTFhdU5GeUIyRUxqUkV4aGFX?oc=5">Reuters</a>｜<a href="https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&amp;at_campaign=rss">BBC</a>
+摘要：（未翻譯）Denmark approves security deal with US and Greenland, seeking to finally ease tensions with Trump
+<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXZ4T0tGUlE3by1Sd0FHU05tLW8wa1pYYWdjczhsM1NNTDh5WVVLRk4yQUhmRTR1LVpRdFBSSUpDUE56Mk5aUE5fNDNQY3lFUWtGQ2ptV2d2ZG43MWhGdjNTS0RpVXNJT1RXbm9NRjJNeU0ySmhBdXAwQUgzeVBGWDZtaTlSRW5TVTNPX3Z3SElOV3psNEpSOFQxeUR4V0llbS13dVlCTzc1dnVzaF9tZg?oc=5">原始新聞</a>｜<a href="https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-rdf">DW</a>｜<a href="https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html">CNBC</a>
 
-<b>2. Israeli military launches rare ground operation in Gaza beyond Yellow Line</b>
-國家：以色列／加薩｜重要性：9/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Israeli military launches rare ground operation in Gaza beyond Yellow Line
-<a href="https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss">原始新聞</a>｜<a href="https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf">DW</a>｜<a href="https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line">France 24</a>
+<b>4. California targets Nvidia in China AI chip probe</b>
+國家：中國｜重要性：8/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）California targets Nvidia in China AI chip probe
+<a href="https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&amp;at_campaign=rss">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html">CNBC</a>
 
-<b>3. EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations</b>
-國家：歐盟｜重要性：9/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations
-<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5">原始新聞</a>｜<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPQndRVDlqSy1mRWJka1d2UnFxQzlwM0c5R1R1OW9GUzVWTVJaRk8zVEhTeHBUbEhiYURRLW1UT3BJNXdGNEk4UzloeHVyYm5ZM2pTa05xc3JBZWlNTXYtNHZBUVQ3eld2YXlyaEdvUmFacWZicVlaMjh0RVVuQkh1MHFOaWZoWGxLN1JfdjNVbk9zS0x4dkNjdA?oc=5">AP</a>｜<a href="https://www.channelnewsasia.com/world/eu-proposes-45-billion-euro-ukraine-loan-2027-6563706">CNA (Channel NewsAsia)</a>
+<b>5. AMD shares fall after short seller report on China links</b>
+國家：中國｜重要性：8/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）AMD shares fall after short seller report on China links
+<a href="https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html">CNBC</a>
 
-<b>4. Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’</b>
-國家：俄羅斯｜重要性：8/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’
-<a href="https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china">原始新聞</a>｜<a href="https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-rdf">DW</a>
+<b>6. Trump, Putin and Xi in historic trilateral meeting</b>
+國家：美國｜重要性：8/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Trump, Putin and Xi in historic trilateral meeting
+<a href="https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c?syn-25a6b1a6=1">原始新聞</a>｜<a href="https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us">France 24</a>
 
-<b>5. Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute</b>
-國家：全球｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute
-<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOZW5sQ0s3NEtGMUtHWHpjajhUZjB3WW1PcGNIOF9IdktwUTVFbVh6V2VsMVFsWFRBMlE5VmtyUXlPMUtfZlk2UU4zbGxoZ19ocThmVjNudnNUWFhNR3BlT0V5dUxuYVk5VXUyT2EwZHI3QmtTS1N1ejVTV005UmNvdV93MjVEVDBkQldGU3E2bTBzVHpUbWZNY2wtbWx6TzA?oc=5">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html">CNBC</a>｜<a href="https://www.channelnewsasia.com/business/palo-alto-raises-annual-forecast-signs-45-billion-deal-applied-compute-6563836">CNA (Channel NewsAsia)</a>
+<b>7. ‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling</b>
+國家：緬甸｜重要性：7/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling
+<a href="https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling">原始新聞</a>｜<a href="https://www.france24.com/en/icj-ruling-on-myanmar-genocide-historic-victory-for-rohingya-landmark-for-international-justice">France 24</a>｜<a href="https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss">Al Jazeera</a>
 
-<b>6. Waymo suspends all driverless taxi rides on freeways after ban in California</b>
-國家：全球｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Waymo suspends all driverless taxi rides on freeways after ban in California
-<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDB2R0RQRGVXUFMtd0M3YUoyRXlSaDZVWVBWRVBKT3gwc3MxQjN3a01fREpMdDFwWXRJaFZuQ0sxTUJzYXkyMGMwOGs5YVUxeUwwd2owRnRuRFl0NWxuT0VHZ2k0eHF1Q0tTc0NoVi1mYTQtM1NrQUUyZ0VzcngzQjZ1M1d6QWRwNzlnQm5qQ0JUVmNXN2NEQ3U5eFpJN3pGSTVUTmRtN1VHc1E?oc=5">原始新聞</a>｜<a href="https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&amp;at_campaign=rss">BBC</a>｜<a href="https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways">The Guardian</a>
+<b>8. Backing Trump, US Senate Republicans block Iran war resolution</b>
+國家：美國｜重要性：7/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Backing Trump, US Senate Republicans block Iran war resolution
+<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5">原始新聞</a>｜<a href="https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss">Al Jazeera</a>
 
-<b>7. US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance</b>
-國家：中國｜重要性：6/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance
-<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEpRTFc4Q3Nsa085U2xoZldyY1BXSmlhSy0yT00tRzF4eU5QekdiUENlSTQyajA0eU5PVWl0MUpoejlXdXJMVVFPbHRVaGFlZmxoWFA5SHN5VXBpWHJvLUFLMjZISk96bVRuWWs0V3NSblpmWTM3VVZNQ3VHQVNpQTNUOFM5VzdwZ0ZOcHlFX3hmcEJ5ZDhRVXlCS0dCZEwxbXZ3Z09zVjB4N1FGMHo4Qkc4WWEwTG5LdHNWbk14NA?oc=5">原始新聞</a>｜<a href="https://www.channelnewsasia.com/world/us-microsoft-bytedance-openai-access-6563751">CNA (Channel NewsAsia)</a>
+<b>9. EU Commission confirms it was targeted in cyberattack through use of AI tools</b>
+國家：歐盟｜重要性：7/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）EU Commission confirms it was targeted in cyberattack through use of AI tools
+<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2FuVDFlVnk2V2ZQX1cwZDZTVVgtNGcyVkRjdWVPa0dWMnFUVWkxVjU0MmJCZEhqZTNURWtRUlpWTFpHYTJDUS1TckpwbDFOYWl3WjR5Z0hyR0xMRVNQbXNZOWw1dHUtWDMwUl9VTVJRSUVfOWh6cjd1eVBpY3hySU9zbnlvZ2V1UFpBSlFraWZIMTAxTGtXQnVYaGhNLWRkRVhmaE96UQ?oc=5">原始新聞</a>｜<a href="https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-all-1573-rdf">DW</a>
 
-<b>8. Israel launches ground operation in central Gaza, dozens flee</b>
-國家：以色列／加薩｜重要性：6/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Israel launches ground operation in central Gaza, dozens flee
-<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5">原始新聞</a>｜<a href="https://www.channelnewsasia.com/world/israel-army-launches-ground-operation-in-hamas-controlled-area-gaza-6563626">CNA (Channel NewsAsia)</a>
-
-<b>9. Anthropic raises $81bn in record IPO</b>
-國家：全球｜重要性：5/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Anthropic raises $81bn in record IPO
-<a href="https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html">CNBC</a>
-
-<b>10. Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion</b>
-國家：全球｜重要性：5/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion
-<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5">原始新聞</a>｜<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5">Reuters</a>
+<b>10. Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine</b>
+國家：俄羅斯｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine
+<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5">原始新聞</a>｜<a href="https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss">Al Jazeera</a>
