@@ -1,59 +1,59 @@
 <b>WORLD RADAR</b>
 <b>GLOBAL DAILY BRIEFING</b>
 
-日期：2026/11/20
+日期：2026/11/21
 
 <b>一、今日全球局勢總覽</b>
 （今日未啟用 AI，僅提供程式篩選的原始新聞清單。）
 
 <b>二、全球十大重要新聞</b>
 
-<b>1. Top UN court finds Myanmar committed genocide against Muslim Rohingya</b>
-國家：緬甸｜重要性：9/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Top UN court finds Myanmar committed genocide against Muslim Rohingya
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5">原始新聞</a>｜<a href="https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss">BBC</a>｜<a href="https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar">The Guardian</a>
-
-<b>2. US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says</b>
-國家：中國｜重要性：9/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says
-<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5">原始新聞</a>｜<a href="https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216">CNA (Channel NewsAsia)</a>｜<a href="https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss">Al Jazeera</a>
-
-<b>3. Denmark approves security deal with US and Greenland, seeking to finally ease tensions with Trump</b>
+<b>1. Trump threatens ban on US firms building AI data centres overseas</b>
 國家：美國｜重要性：9/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Denmark approves security deal with US and Greenland, seeking to finally ease tensions with Trump
-<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXZ4T0tGUlE3by1Sd0FHU05tLW8wa1pYYWdjczhsM1NNTDh5WVVLRk4yQUhmRTR1LVpRdFBSSUpDUE56Mk5aUE5fNDNQY3lFUWtGQ2ptV2d2ZG43MWhGdjNTS0RpVXNJT1RXbm9NRjJNeU0ySmhBdXAwQUgzeVBGWDZtaTlSRW5TVTNPX3Z3SElOV3psNEpSOFQxeUR4V0llbS13dVlCTzc1dnVzaF9tZg?oc=5">原始新聞</a>｜<a href="https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-rdf">DW</a>｜<a href="https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html">CNBC</a>
+摘要：（未翻譯）Trump threatens ban on US firms building AI data centres overseas
+<a href="https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&amp;at_campaign=rss">原始新聞</a>｜<a href="https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss">Al Jazeera</a>｜<a href="https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html">CNBC</a>
 
-<b>4. California targets Nvidia in China AI chip probe</b>
-國家：中國｜重要性：8/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）California targets Nvidia in China AI chip probe
-<a href="https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&amp;at_campaign=rss">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html">CNBC</a>
+<b>2. Mayor Mamdani announces plan to close New York&#x27;s Rikers Island jail by 2032</b>
+國家：全球｜重要性：7/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Mayor Mamdani announces plan to close New York&#x27;s Rikers Island jail by 2032
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJEVWdSMkxUUEMxd1FENDRfSkJLSEpfV2VlOGpSZEtxUmJqMnowSktRSTVxa2o2RXRmazFYRWFDQzlqcGs5ZkRpLW5MUGZqSl9XUzJEVkk1RTJCX1d0Y1IySktPU01sbDhBcVRuR1I4d2hzS1ZBRmdlMlBLWm5fY0FBUW1ydVFjNy1Eb2wxSkpuZVpiOTdUQnF0N2VJeVl0Tl85NGZxeTNVQ25tMFFZbnVJQQ?oc=5">原始新聞</a>｜<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUdYbjJUMHZtQVZHWDJKSGNIRWdjY2M4ei1YTzJEMXdjX1ZLbGlKT0tGd205UENPZHFwN0JEYzdVMHE5dVphbTB0NXpjVmN2SXZrYklTNTB1Wnh3aXRvRXBMcC1KbWVLZ2R3azVaRWQxSXl6ZS03VF9lNkZ4bzg1SFBFN3BkYXppdkNfX0tnQ1pYUQ?oc=5">AP</a>｜<a href="https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss">BBC</a>
 
-<b>5. AMD shares fall after short seller report on China links</b>
-國家：中國｜重要性：8/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）AMD shares fall after short seller report on China links
-<a href="https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1">原始新聞</a>｜<a href="https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html">CNBC</a>
-
-<b>6. Trump, Putin and Xi in historic trilateral meeting</b>
-國家：美國｜重要性：8/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Trump, Putin and Xi in historic trilateral meeting
-<a href="https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c?syn-25a6b1a6=1">原始新聞</a>｜<a href="https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us">France 24</a>
-
-<b>7. ‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling</b>
-國家：緬甸｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling
-<a href="https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling">原始新聞</a>｜<a href="https://www.france24.com/en/icj-ruling-on-myanmar-genocide-historic-victory-for-rohingya-landmark-for-international-justice">France 24</a>｜<a href="https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss">Al Jazeera</a>
-
-<b>8. Backing Trump, US Senate Republicans block Iran war resolution</b>
-國家：美國｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）Backing Trump, US Senate Republicans block Iran war resolution
-<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5">原始新聞</a>｜<a href="https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss">Al Jazeera</a>
-
-<b>9. EU Commission confirms it was targeted in cyberattack through use of AI tools</b>
+<b>3. UK and EU strike deals on trade and travel, pledging to rebuild ties after Brexit</b>
 國家：歐盟｜重要性：7/10｜多來源報導（已交叉比對）
-摘要：（未翻譯）EU Commission confirms it was targeted in cyberattack through use of AI tools
-<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2FuVDFlVnk2V2ZQX1cwZDZTVVgtNGcyVkRjdWVPa0dWMnFUVWkxVjU0MmJCZEhqZTNURWtRUlpWTFpHYTJDUS1TckpwbDFOYWl3WjR5Z0hyR0xMRVNQbXNZOWw1dHUtWDMwUl9VTVJRSUVfOWh6cjd1eVBpY3hySU9zbnlvZ2V1UFpBSlFraWZIMTAxTGtXQnVYaGhNLWRkRVhmaE96UQ?oc=5">原始新聞</a>｜<a href="https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-all-1573-rdf">DW</a>
+摘要：（未翻譯）UK and EU strike deals on trade and travel, pledging to rebuild ties after Brexit
+<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQaW9ETGFMaFhwLXBycnlkTXVlQmlReW5NSGdqVmNhbkVoeGZ3aEJ3cWlwdWZTb19QVVFGMTRJYkVUTHdrRHFtQjh0T05fRTVIUlE4RTdlUm03LVZGWEhBay1uU256NlUyRzZuLTZERExLb01lMHlSY1FDTHJETXVULVp1d0pnN3pvRmRpRTUxN3hNUW5peHlFM1Q4R3p6ekYyUF8tQUZhcw?oc=5">原始新聞</a>｜<a href="https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit">France 24</a>｜<a href="https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-all-1573-rdf">DW</a>
 
-<b>10. Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine</b>
-國家：俄羅斯｜重要性：6/10｜多來源報導（已交叉比對）
+<b>4. Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine</b>
+國家：俄羅斯｜重要性：7/10｜多來源報導（已交叉比對）
 摘要：（未翻譯）Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine
-<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5">原始新聞</a>｜<a href="https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss">Al Jazeera</a>
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamN2T09McmJvdzlKWjl1YkJvNmxtZHJRbGJuXzRqeUtjQnQ2R0M2eXVFcTBhcGNiM0tQaTRoZ3ctb1pUdkFFVjFoSzBGcEJvRnZXMXA5X1RMc1NhZ0NsYzk5OFlGOTZkNzBmRTRyM0pXUVZBV3hIQmFKak04V0ZoQUtxSjdpb2NfTDhXWHNfYUMzeG5IVWdMQm42UXJtdUZoV0FXcGZZSTk1Qk45d185UldTWlpYUTdsVkNV?oc=5">原始新聞</a>｜<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5">AP</a>｜<a href="https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html">CNBC</a>
+
+<b>5. Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash</b>
+國家：美國｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash
+<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEtzQUtZSkNqOE9ReXZEMTlIRVNjOEdzRVp0b1E1UkFiYncyMGpadjRFV1ZSeDJqSnJuRnhhZ3JvRkt3ZG9BNlN3Z0VESFpTbHFTREp6bzVFWnBKZVNweW5wUUVpMzFaZk14UzA3RFVveWdDUW9rVjI1dTZOeEVVeGl5Ql9QYVFpdWl3cm15VHg4SlZNVXR3dWVuTm0xVk1HZkZZdg?oc=5">原始新聞</a>｜<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5">Reuters</a>
+
+<b>6. Denmark says it thwarted Russian plot to assassinate US-Ukrainian rapper</b>
+國家：俄羅斯｜重要性：6/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Denmark says it thwarted Russian plot to assassinate US-Ukrainian rapper
+<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3pnR2JQcmdEOFhWYVNRZDdPVG1jRktuenpJdThGbUV6Z3BQV3ZUTHo3Y2ZyY3ZwZ0UzblB0RkZzdExxeV9KaUZFZmEzNlZDSGxhOXFoeXVaSllkQ3ZFZTUzMU9IUGppQjhuSXBMQTlITEJfWTdlN3RCTU82dHNndGFQdGhCZWU1akZ0T2ljWUNTVmtWMmk5SDZHeE1feTZ1aUtTZFNGZU1OLUFFYXBRX2loR0dGZw?oc=5">原始新聞</a>｜<a href="https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss">BBC</a>
+
+<b>7. Court approves $7.25 billion settlement with Bayer over claims Roundup weedkiller caused cancer</b>
+國家：德國｜重要性：5/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Court approves $7.25 billion settlement with Bayer over claims Roundup weedkiller caused cancer
+<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOdE1pUUZWQjVLZWF3bzVPQVZNOWFQZzNxSUVGdVFpeVY0d3d0TGE3Q2dsQ2RrYU5hQlI4Z2ROVkR2YnptQzFnRDFibExkNkptYzZzMGFZTlBWX3hsa21BSXVjNWxjWjNTR3lOOUxtX2owTmVzQk84NHg1eXB2TVNJNjFhRG05SDBRMVIwSS1DMW5WU2RjSC0xSk1zNHZhblRNdlAwQ05hcktTcThaXzhYWQ?oc=5">原始新聞</a>｜<a href="https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf">DW</a>｜<a href="https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation">The Guardian</a>
+
+<b>8. Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader</b>
+國家：印度｜重要性：5/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader
+<a href="https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&amp;at_campaign=rss">原始新聞</a>｜<a href="https://www.channelnewsasia.com/world/us-india-nikhil-gupta-sentenced-sikh-pannun-6570561">CNA (Channel NewsAsia)</a>｜<a href="https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss">Al Jazeera</a>
+
+<b>9. Indian man sentenced to more than 19 years in US for plotting to kill Sikh separatist</b>
+國家：印度｜重要性：5/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Indian man sentenced to more than 19 years in US for plotting to kill Sikh separatist
+<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjVuN010NzdNUUtkd09ka1ptSHhYbU1zX0VHVUhPNXBIb2dTX2FxNmVZVm03Ukp3c0hNNlBfTjVOMTZoNXZxZ0s5RVFScVFqY2dONzdjcnRlOUNRRkkwOFVIeVdrVVlxQ0Q3dkVBR3V5cnE4cDhGWEtXZmh4a3VpUUVWdnAza3NNdWpxcGhrd3lNQjlwbWZBQlBadkU?oc=5">原始新聞</a>｜<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUJVblNJUXk5S2t1S2hDSDdzaFJoQkdHT2tONG51aUNJUUxWWk9lV2FYUFVhTk1WLXRpd28xRzhhVWkzMUVxUUgwNTF6S0dySlZod1JCbGhocGY1N0dQYldSUHRad0VFaF9PRXAxdUVTQ3QyQlI1UHp2SE40V0c1ekN5aWVqVzJWLW15VVp2WDgtbmpFNG1ua3VKOG8yR1o1TFFTd21sMHlva0hsak1NUmpyV3ptOVB5?oc=5">Reuters</a>｜<a href="https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist">The Guardian</a>
+
+<b>10. Nepal PM Balendra Shah to visit India, meet Modi</b>
+國家：印度｜重要性：5/10｜多來源報導（已交叉比對）
+摘要：（未翻譯）Nepal PM Balendra Shah to visit India, meet Modi
+<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWFBbWZpV0haLUdMd1N5UmRDa3JKcGtDamx2NUxfa3RmeHNEYTR5V1E1YW43VFNIV1FVMTVmRkxhNkI1S2N4YVZLX0FKVzNpVVhGbXV5MVRySnJEX01rUUN0MTlYOU1TX2p3ajcwUzhqRHA1NkhrSUxqMzFKdlozU05aRG1VbFlHZ1RfM1VhUjFpMElGWEpQel9GWGpnX3B4?oc=5">原始新聞</a>｜<a href="https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&amp;at_campaign=rss">BBC</a>
